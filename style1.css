@@ -1,0 +1,292 @@
+body {
+	background-image	: url("bg.png");
+	background-color 	: #57bfe3;
+	text-align			: center;
+	font				: 16px Verdana, Tahoma, Helvetica;
+}
+hr {
+	border				: 3px solid black;
+	margin-top  		: 0px;
+	margin-bottom		: 25px;
+}
+
+
+
+#awalan {
+	margin-top			:100px
+}
+.header img {
+    display				: block;
+    width				: 80px;
+    height				: 80px;
+    margin				: auto;
+}
+.img-circle {
+    border				: 3px solid black;
+    border-radius		: 50%;
+}
+.header {
+	padding				: 5px;
+	background-color 	: #57bfe3;
+}
+.header a {
+	text-decoration		: none;
+	color				: black;
+	padding				: 5px;
+}
+.header a:hover {
+	background-color	: lightskyblue;
+	color				: white;
+}
+.header h1 {
+	font				: 40px SF Sports Night NS;
+	text-align			: center;
+}
+.header ul {
+	
+	margin-bottom		: 5px;
+	margin				: center;				
+}
+.header ul li {
+	font				: 16px SF Sports Night NS Upright;
+	display				: inline-block;
+	text-align			: center;
+	margin-left			: 50px;
+	margin-right		: 50px;
+	margin-top			: 10px;
+}
+.header h1 a {
+	text-decoration		: none;
+	color				: black;
+	padding				: 5px;
+}
+.header h1 a:hover {
+	background-color	: white;
+	color				: black;
+}
+.kata1 p {
+	text-align		:left;
+	margin-left		:250px;
+}
+.kata1 h5 {
+	text-align		:left;
+	margin-left		:400px;
+	margin-top		:-10px;
+}
+.kata2 p {
+	text-align		:right;
+	margin-top		:-100px;
+	margin-right	:250px;
+}
+.kata2 h5 {
+	text-align		:right;
+	margin-right	:250px;
+	margin-top		:-10px;
+}	
+
+
+
+#badan1 {
+}
+.isi1 img{
+	float				: right;
+    display				: block;
+    width				: 300px;
+    height				: 300px;
+    margin				: auto;
+	margin-right		: 250px;
+	margin-top			: -50px;
+}
+.isi1 h3{
+	text-align			: left;
+	font-size			: 20px;
+	font-weight `		: bold;
+	margin-left			: 260px;
+	margin-top			: 70px;
+}
+.isi1 p{
+	text-align			: justify;
+	font				: 16px Comic Sans MS;
+	font-weight `		: bold;
+	margin-left			: 260px;
+	margin-right		: 700px;
+}
+.isi1 p a {
+	color				: black;
+	padding				: 5px;
+}
+.isi1 p a:hover{
+	background-color	: white;
+	color				: black;
+	padding				: 1px;
+}
+
+
+#badan2{
+}
+h2 {
+	text-align			: center;
+	font				: 22px Cooper Black;
+	font-weight `		: bold;
+}
+.isi2 {
+	margin-top			:50px;
+	margin-bottom		:50px;
+}
+.isi2 img {
+	float				: left;
+    display				: block;
+    width				: 200px;
+    height				: 200px;
+    margin				: auto;
+	margin-left			: 250px;
+	margin-top			: -50px;
+	border				: 2px solid black;
+    border-radius		: 25%;
+}
+.isi2 h3{
+	text-align			: center;
+	font-size			: 18px;
+	font-weight `		: bold;
+	margin-top			: 50px;
+}
+.isi2 p{
+	text-align			: justify;
+	font				: 16px Lucida Bright;
+	margin-left			: 500px;
+	margin-right		: 300px;
+}
+.isi3 {
+	margin-top			:150px;
+}
+.isi3 img {
+	float				: left;
+    display				: block;
+    width				: 200px;
+    height				: 200px;
+    margin				: auto;
+	margin-left			: 250px;
+	margin-top			: -50px;
+	border				: 2px solid black;
+    border-radius		: 25%;
+}
+.isi3 h3{
+	text-align			: center;
+	font-size			: 18px;
+	font-weight `		: bold;
+	margin-top			: 50px;
+}
+.isi3 p{
+	text-align			: justify;
+	font				: 16px Lucida Bright;
+	margin-left			: 500px;
+	margin-right		: 300px;
+}
+.isi2 h3 a {
+	text-decoration		: none;
+	color				: blue;
+	padding				: 5px;
+}
+.isi3 h3 a {
+	text-decoration		: none;
+	color				: blue;
+	padding				: 5px;
+}
+
+
+
+h2 span {
+	text-align			: center;
+	font				: 22px Cooper Black;
+	font-weight `		: bold;
+    border				: 4px dashed #57bfe3;
+    padding				: 10px;
+}
+.section {
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
+.section h3{
+    font		: 20px SF Sports Night NS Upright;
+}
+
+
+
+.selected {
+    background-color: gray;
+    font-weight: bold;
+    color: Black;
+}
+table, th, td {
+	margin			: auto;
+    border			: 2px solid black;
+    text-align		: center;
+    table-layout	: fixed;
+}
+
+
+
+.lists h3{
+    font		: 20px SF Sports Night NS Upright;
+}
+.lists ul li {
+	font				: 20px SF arial;
+	display				: inline-block;
+	text-align			: center;
+	font-weight			: bold;
+	margin-left			: 50px;
+	margin-right		: 50px;
+	margin-top			: 10px;
+}
+.lists ul li img {
+	float				: center;
+    display				: block;
+    width				: 100px;
+    height				: 100px;
+    margin				: auto;
+	margin-top			: 25px;
+	margin-bottom		: 25px;
+}
+.lists ul li a{
+	color				: black;
+	padding				: 5px;
+}
+
+#contacts img {
+    height: 50px;
+    width: 50px;
+	margin-top	:50px;
+}
+#contacts a {
+    text-decoration: none;
+}
+#contacts img:hover {
+    opacity: 0.8;
+}
+#contacts p{
+	text-decoration		: none;
+	color				: black;
+	padding				: 5px;
+}
+#contacts p:hover {
+	background-color	: lightskyblue;
+	color				: white;
+}
+#contacts {
+    text-align: center;
+}
+
+
+#footer{
+	width 				: 100%;
+	height				: 50px;
+	margin-top			: -25px;
+	padding-top			: 30;
+	background-color	: #57bfe3;
+	color				: black;
+	font-size			: 12pt;
+	text-align			: center;
+	position			: relative;
+	clear				: both;
+}
